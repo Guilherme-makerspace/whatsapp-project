@@ -61,6 +61,7 @@ Servidor rodando em: `http://localhost:3000`
 ```kotlin
 implementation("io.socket:socket.io-client:2.1.0")
 implementation("androidx.lifecycle:lifecycle-viewmodel-compose:2.8.7")
+implementation("androidx.navigation:navigation-compose:2.8.7")
 ```
 
 ### Permissões (`AndroidManifest.xml`)
